@@ -1,0 +1,2 @@
+Creates Shape class with Circle and Square subclasses. Each shape contains a .area() function which calculates the area of each individual thing
+Run .area_stats() function to see the area stats of a list of shapes
